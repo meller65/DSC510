@@ -1,0 +1,10 @@
+Here's a series of links to learn more about GIT.
+
+http://www.firstpythonnotebook.org/git/index.html
+
+Links on Markdown
+
+http://www.firstpythonnotebook.org/markdown/
+
+https://www.fullstackpython.com/markdown.html
+
